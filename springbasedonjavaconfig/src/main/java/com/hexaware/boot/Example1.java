@@ -14,6 +14,7 @@ public class Example1 {
 		   HelloWorld helloWorld = ctx.getBean(HelloWorld.class);
 		   helloWorld.setMessage("Hello World!");
 		   helloWorld.getMessage();
+		   System.out.println("Hello");
 		}
 
 }
