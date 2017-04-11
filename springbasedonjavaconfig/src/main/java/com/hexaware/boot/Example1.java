@@ -15,6 +15,7 @@ public class Example1 {
 		   helloWorld.setMessage("Hello World!");
 		   helloWorld.getMessage();
 		   System.out.println("Hello");
+		    System.out.println("Hello");
 		}
 
 }

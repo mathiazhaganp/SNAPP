@@ -14,5 +14,6 @@ public class Example2 {
 	      TextEditor te = ctx.getBean(TextEditor.class);
 	      te.spellCheck();
 		  System.out.println("Hello");
+		  System.out.println("HAQ ");
 	   }
 	}
